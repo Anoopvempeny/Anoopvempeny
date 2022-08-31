@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anoopvempeny
-- 👀 I’m interested in AI
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 Ping me on anoopvempenickal@gmail.com
